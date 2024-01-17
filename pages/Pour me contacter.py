@@ -16,7 +16,7 @@ def main():
     st.write(" 75008 Paris ")
 
     st.markdown("**Ages** :")
-    st.write("  08/08/2003 (19 ans)")
+    st.write("  08/08/2003 (20 ans)")
 
     st.markdown("**linkedin**")
     st.write(" https://www.linkedin.com/in/chloe-itan-5a634b235")
